@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Fullstack Web Development**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Shashwat121]]([https://github.com/Shashwat121])
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Shashwat121"> My Github Profile </a>
 
 - 💬 Hit me up and let's unravel mysteries of **React, Node and JavaScript**
 
